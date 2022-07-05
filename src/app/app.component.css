@@ -1,0 +1,15 @@
+.hidden{
+    opacity: 0;
+}
+
+
+.success{
+   color:green ;
+}
+.very_success {
+    font-family: cursive;
+    color: blue;
+}
+.malarda{
+    color : tomato;
+}
